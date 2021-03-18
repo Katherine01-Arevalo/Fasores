@@ -15,6 +15,7 @@
 **5.EXPLICACIÓN**
 
 PRACTICA 
+
 Realización de operaciones mediante una calculadora para esto se necesita que la calculadora a utilizar trabaje con los códigos Rec y Pol las cuales generan  con más facilidad los datos que  se desea obtener tener presente si el fasor se encuentra en forma polar o rectangular ,para generar la conversión.
 Encender la calculadora a continuación presionar la tecla shift, posteriormente presionar la tecla Pol(+) si se va a transformar a una forma polar, si se transforma a la forma rectangular   presionamos la tecla rec(-).
 
