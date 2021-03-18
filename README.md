@@ -40,10 +40,8 @@ Tablas
 
 **9.CONCLUSIONES**
 
-Finalmente se llega a validar que por medio del análisis de un triángulo rectángulo se puede llegar a obtener la magnitud y el Angulo mediante el arco tangente de su valor imaginario sobre su valor real  y los mismos resultados se llega a obtener mediante el uso de una calculadora con el comando Pol y de la mismas manera se llega a obtener la forma rectangular de  un fasor mediante la representación en su parte real como imaginaria obteniendo su valor en el eje real como en  el imaginario, para facilitar el cálculo se hace uso de la calculadora  científica y mediante el comando Rec. El uso de la calculadora facilita la resolución del problema.
+Finalmente se llega a validar que por medio del análisis de un triángulo rectángulo se puede llegar a obtener la magnitud y el ángulo mediante el arco tangente de su valor imaginario sobre su valor real  y los mismos resultados se llega a obtener mediante el uso de una calculadora con el comando Pol y de la mismas manera se llega a obtener la forma rectangular de  un fasor mediante la representación en su parte real como imaginaria obteniendo su valor en el eje real como en  el imaginario, para facilitar el cálculo se hace uso de la calculadora  científica y mediante el comando Rec. El uso de la calculadora facilita la resolución del problema.
 Mediante la representación de los fasores de forma ya sea rectangular como polar facilita para generar la suma ,resta, multiplicación y división de estos, es usado  para el análisis de corriente alterna 
-
-
 
 **10.BIBLIOGRAFÍA**
 
