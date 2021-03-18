@@ -6,7 +6,9 @@
 **2.MARCO TEÓRICO**
 
 **3.DIAGRAMAS**
+Transforme a su forma polar : 2+3j
 
+![diagrama](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/diagrama.PNG)
 
 **4.LISTA DE COMPONENTES**
 
