@@ -3,9 +3,17 @@
 
 **1.OBJETIVOS**
 
+
+
 **2.MARCO TEÓRICO**
 
+![FASOR1](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/FASOR1.png)
+
+![FASOR2](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/FASOR2.png)
+
+
 **3.DIAGRAMAS**
+
 Transforme a su forma polar : 2+3j
 
 ![diagrama](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/diagrama.PNG)
@@ -35,7 +43,7 @@ Tablas
 
 **8.PRERREQUISITOS**
 
--Tener en cuenta  que la calculadora a utilizar se encuentre en grados para que genere los datos correctos 
+- Tener en cuenta  que la calculadora a utilizar se encuentre en grados para que genere los datos correctos 
 - Tener presente  a que  forma se va a transformar ya sea rectangular o polar para que sean digitadas de manera correcta en  la calculadora 
 
 **9.CONCLUSIONES**
