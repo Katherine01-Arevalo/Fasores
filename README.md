@@ -7,7 +7,10 @@
 
 **3.DIAGRAMAS**
 
+
 **4.LISTA DE COMPONENTES**
+
+![elementos](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/elementos.PNG)
 
 **5.EXPLICACIÓN**
 
@@ -16,6 +19,14 @@ Realización de operaciones mediante una calculadora para esto se necesita que l
 Encender la calculadora a continuación presionar la tecla shift, posteriormente presionar la tecla Pol(+) si se va a transformar a una forma polar, si se transforma a la forma rectangular   presionamos la tecla rec(-).
 
 **6.APORTACIONES**
+
+![simulacion](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/primero.PNG)
+
+Tablas
+
+![tabla1](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/tabla1.PNG)
+
+![tabla2](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/tabla%202.PNG)
 
 **7.MANUAL DE USUARIO**
 
