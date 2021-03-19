@@ -49,6 +49,9 @@ Tablas
 
 ![tabla2](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/tabla%202.PNG)
 
+![error](https://github.com/Katherine01-Arevalo/Fasores/blob/main/img/error.PNG)
+
+
 **7.MANUAL DE USUARIO**
 
 **8.PRERREQUISITOS**
