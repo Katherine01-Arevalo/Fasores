@@ -3,7 +3,17 @@
 
 **1.OBJETIVOS**
 
+- Generales:
 
+-Desarrollar conocimiento y experticia sobre los fasores y su aplicación.
+
+- Específicos:
+
+-Analizar la onda senoidal, su relación con los fasores, los números complejos en sus dos formas, polar y rectangular, y las conversiones de rectangular a polar y viceversa.
+
+-Elaborar un resumen de la teoría de fasores mediante compilación de información de varias fuentes.
+
+-Evaluar cantidades fasoriales, realizar conversiones de la forma polar a la forma rectangular y viceversa, además realizar operaciones matemáticas. 
 
 **2.MARCO TEÓRICO**
 
