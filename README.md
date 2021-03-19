@@ -5,7 +5,7 @@
 
 - Generales:
 
--Desarrollar conocimiento y experticia sobre los fasores y su aplicación.
+-Desarrollar conocimiento y experticia sobre los fasores.
 
 - Específicos:
 
